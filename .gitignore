@@ -1,0 +1,8 @@
+main
+out.file
+server_dev.json
+server_release.json
+server_test.json
+server.json
+important/
+.DS_Store
